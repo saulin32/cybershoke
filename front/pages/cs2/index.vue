@@ -40,7 +40,7 @@ let servers = [
     name: "RETAKECARDS",
     inGame: 228,
     src: "RETAKECARDS.webp",
-    videoSrc: "RETAKECARDS.mp434",
+    videoSrc: "RETAKECARDS.mp4",
   },
 ];
 </script>
